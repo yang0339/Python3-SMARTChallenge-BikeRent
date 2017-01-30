@@ -10,5 +10,5 @@ It contains 8 visualizations:
 5. box plot: average count w.r.t months
 6. Box plot: weathersit vs count
 7. Scatter Plot: atemp vs count
-8. Scatter Plot:windspeed vs count
+8. Scatter Plot: windspeed vs count
 9. Scatter Plot:humidity vs count

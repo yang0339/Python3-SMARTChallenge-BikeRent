@@ -3,12 +3,12 @@ https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 It contains 8 visualizations:
 
-1. Scatter Matrix for all the attributes
-2. line plot: average count w.r.t. hour, legend by weekday
-3. line plot: average count w.r.t. hour, legend by workday, weekend, and non-working holidays
-4. line plot: average count w.r.t months
-5. box plot: average count w.r.t months
-6. Box plot: weathersit vs count
-7. Scatter Plot: atemp vs count
-8. Scatter Plot: windspeed vs count
-9. Scatter Plot:humidity vs count
+[1. Scatter Matrix for all the attributes](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/1%20Scatter%20Matrix.png)
+[2. line plot: average count w.r.t. hour, legend by weekday](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/2%20line%20plot%20avg_count%20vs%20hour.png)
+[3. line plot: average count w.r.t. hour, legend by workday, weekend, and non-working holidays](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/3%20line%20plot%20avg_count%20vs%20hour%20(non-working%20day).png)
+[4. line plot: average count w.r.t months](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/4%20line%20plot%20avg_count%20vs%20month.png)
+[5. box plot: average count w.r.t months](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/5%20boxplot%20avg_count%20vs%20month.png)
+[6. Box plot: weathersit vs count](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/6%20boxplot%20weathersit%20vs%20count.png)
+[7. Scatter Plot: atemp vs count](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/7%20Scatter%20Plot%20atemp%20vs%20count.png)
+[8. Scatter Plot: windspeed vs count](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/8%20Scatter%20Plot%20windspeed%20vs%20count.png)
+[9. Scatter Plot:humidity vs count](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/9%20Scatter%20Plot%20humidity%20vs%20count.png)

@@ -228,7 +228,7 @@ plt.show()
 # 9. Scatter Plot, humidity vs count
 count = pd.DataFrame()
 count = raw_hour.loc[:, lambda df: ['hum', 'cnt']].reset_index().sort_values('hum', ascending=False).reset_index(drop=True)
-fig = plt.figure(8)
+fig = plt.figure(9)
 count_max = count.groupby(['hum']).max().reset_index().reset_index(drop=True)
 count_mean = count.groupby(['hum']).mean().reset_index().reset_index(drop=True)
 cm = plt.cm.get_cmap('rainbow')

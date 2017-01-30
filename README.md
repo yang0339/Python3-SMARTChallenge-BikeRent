@@ -1,6 +1,7 @@
 This are visualizations created for bike rent of Washington DC, the dataset can be find at UCI dataset repository at:
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
+The report can be viewed [here](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/Report.pdf)<br/>
 It contains 9 visualizations:
 
 [1. Scatter Matrix for all the attributes](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/1%20Scatter%20Matrix.png)<br/>

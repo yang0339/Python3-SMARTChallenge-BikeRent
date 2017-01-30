@@ -4,7 +4,9 @@ https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 It contains 8 visualizations:
 
 [1. Scatter Matrix for all the attributes](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/1%20Scatter%20Matrix.png)
+
 [2. line plot: average count w.r.t. hour, legend by weekday](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/2%20line%20plot%20avg_count%20vs%20hour.png)
+
 [3. line plot: average count w.r.t. hour, legend by workday, weekend, and non-working holidays](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/3%20line%20plot%20avg_count%20vs%20hour%20(non-working%20day).png)
 [4. line plot: average count w.r.t months](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/4%20line%20plot%20avg_count%20vs%20month.png)
 [5. box plot: average count w.r.t months](https://github.com/yang0339/Python3-SMARTChallenge-BikeRent/blob/master/5%20boxplot%20avg_count%20vs%20month.png)
